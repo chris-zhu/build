@@ -1,4 +1,4 @@
-import{d as t,m as e,n as o,q as i,o as n,c as s,k as r}from"./index.6bcfca21.js";
+import{d as t,m as e,n as o,q as i,o as n,c as s,k as r}from"./index.0f8b0f55.js";
 /*!
  * better-scroll / core
  * (c) 2016-2020 ustbhuangyi
